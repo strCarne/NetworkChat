@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/ClientGUI/build",
+  "command": "/usr/bin/clang++  -I/Users/strCarne/SFML/include -isystem /usr/local/include  -std=c++20 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/ClientGUI.dir/main.cpp.o -c /Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/ClientGUI/main.cpp",
+  "file": "/Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/ClientGUI/main.cpp",
+  "output": "CMakeFiles/ClientGUI.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/ClientGUI/build",
+  "command": "/usr/bin/clang++  -I/Users/strCarne/SFML/include -isystem /usr/local/include  -std=c++20 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/ClientGUI.dir/Menu.cpp.o -c /Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/ClientGUI/Menu.cpp",
+  "file": "/Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/ClientGUI/Menu.cpp",
+  "output": "CMakeFiles/ClientGUI.dir/Menu.cpp.o"
+},
+{
+  "directory": "/Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/ClientGUI/build",
+  "command": "/usr/bin/clang++  -I/Users/strCarne/SFML/include -isystem /usr/local/include  -std=c++20 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/ClientGUI.dir/Button.cpp.o -c /Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/ClientGUI/Button.cpp",
+  "file": "/Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/ClientGUI/Button.cpp",
+  "output": "CMakeFiles/ClientGUI.dir/Button.cpp.o"
+},
+{
+  "directory": "/Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/ClientGUI/build",
+  "command": "/usr/bin/clang++  -I/Users/strCarne/SFML/include -isystem /usr/local/include  -std=c++20 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/ClientGUI.dir/Message.cpp.o -c /Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/ClientGUI/Message.cpp",
+  "file": "/Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/ClientGUI/Message.cpp",
+  "output": "CMakeFiles/ClientGUI.dir/Message.cpp.o"
+},
+{
+  "directory": "/Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/ClientGUI/build",
+  "command": "/usr/bin/clang++  -I/Users/strCarne/SFML/include -isystem /usr/local/include  -std=c++20 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/ClientGUI.dir/Messages.cpp.o -c /Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/ClientGUI/Messages.cpp",
+  "file": "/Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/ClientGUI/Messages.cpp",
+  "output": "CMakeFiles/ClientGUI.dir/Messages.cpp.o"
+},
+{
+  "directory": "/Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/ClientGUI/build",
+  "command": "/usr/bin/clang++  -I/Users/strCarne/SFML/include -isystem /usr/local/include  -std=c++20 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/ClientGUI.dir/InputBox.cpp.o -c /Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/ClientGUI/InputBox.cpp",
+  "file": "/Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/ClientGUI/InputBox.cpp",
+  "output": "CMakeFiles/ClientGUI.dir/InputBox.cpp.o"
+},
+{
+  "directory": "/Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/ClientGUI/build",
+  "command": "/usr/bin/clang++  -I/Users/strCarne/SFML/include -isystem /usr/local/include  -std=c++20 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/ClientGUI.dir/TCPClient.cpp.o -c /Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/ClientGUI/TCPClient.cpp",
+  "file": "/Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/ClientGUI/TCPClient.cpp",
+  "output": "CMakeFiles/ClientGUI.dir/TCPClient.cpp.o"
+}
+]

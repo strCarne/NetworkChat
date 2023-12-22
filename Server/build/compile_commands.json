@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/Server/build",
+  "command": "/usr/bin/clang++    -std=c++20 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/Server.dir/main.cpp.o -c /Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/Server/main.cpp",
+  "file": "/Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/Server/main.cpp",
+  "output": "CMakeFiles/Server.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/Server/build",
+  "command": "/usr/bin/clang++    -std=c++20 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/Server.dir/TCPServer.cpp.o -c /Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/Server/TCPServer.cpp",
+  "file": "/Users/strCarne/Documents/Projects/C++/Networking/NetworkChat/Server/TCPServer.cpp",
+  "output": "CMakeFiles/Server.dir/TCPServer.cpp.o"
+}
+]
